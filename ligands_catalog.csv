@@ -1,0 +1,12 @@
+# Ligand Catalog - HRV 2R06 Molecular Docking Project
+# Researcher: Milka Natasya Purwanto
+# Email: mlknatsya05@gmail.com
+# Lab: Laboratorium Bioinformatika
+# Date: May 23, 2024
+
+ID,Name,Plant_Latin,Plant_Indonesian,SMILES,MW,LogP,HBD,HBA,RotBonds,Tox_Risk,Potensi_Antiviral,File_Format,Status,Notes
+001,Andrographolide,Andrographis paniculata,Sambiloto,CC(C)C1(C)C(=CC(=O)OC1C2CC(O)C(C)(C)C(=C2C=C3C(=CC(=O)OC3=C)O)C)C,350.45,3.45,2,6,4,Low,Very High,SDF,Ready,Diterpenoid - Imunostimulan & Antiviral
+002,Baicalein,Scutellaria baicalensis,Bungli,O1C=C(O)C2=C1C=C(O)C(=O)C2O,270.24,2.87,3,6,1,Low,High,SDF,Ready,Flavone - Protease inhibitor
+003,Kaempferol,Kaempferia galanga,Kencur,O1C=C(O)C2=C1C=C(O)C(=O)C2O,286.24,1.38,4,6,1,Low,Medium-High,SDF,Ready,Flavonol - Antioksidan & Antiviral
+004,Apigenin,Apium graveolens,Seledri,O1C=C(O)C2=C1C=C(C=C2O)C3=CC(=O)C(=C(C3)O)O,270.24,2.13,3,5,1,Low,Medium-High,SDF,Ready,Flavone - Broad-spectrum antiviral
+005,Quercetin,Annona muricata,Sirsak,O1C=C(O)C2=C1C=C(O)C(O)=C2O,302.24,1.78,5,7,1,Low,Very High,SDF,Ready,Flavonol - Strongest antiviral potential
